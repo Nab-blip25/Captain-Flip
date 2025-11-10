@@ -1,0 +1,3 @@
+{'nom': 'Anais', 'victoires': 7, 'defaites': 7, 'passager_clandestin': 6, 'matelot': 5, 'marin': 1, 'lieutenant': 1, 'amiral': 0, 'legende_des_mers': 1}
+{'nom': 'Fanny', 'victoires': 7, 'defaites': 5, 'passager_clandestin': 5, 'matelot': 4, 'marin': 3, 'lieutenant': 0, 'amiral': 0, 'legende_des_mers': 0}
+{'nom': 'fnkjng', 'victoires': 0, 'defaites': 1, 'passager_clandestin': 1, 'matelot': 0, 'marin': 0, 'lieutenant': 0, 'amiral': 0, 'legende_des_mers': 0}
